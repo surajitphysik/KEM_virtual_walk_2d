@@ -1,0 +1,13 @@
+0.333     3  1000   0.0 10000    50                                 
+%dlta  incd    nl qtemp   iav itime   
+%   format(F5.3,I8,I8,F7.2,I7,I7) 
+%  initial condition >incd> 1 for random(+1 &-1), 2 for polarised, 3 for delta
+%  dlta> delta(intial condition)
+%  nl >   system size(L)
+%  qtemp >  p (temperature)
+%  iav  >   configuration average
+%   mm    >   memory  
+%    itime  > time
+%   idm  > cutoff dimension of 2d array
+%   it1>itime*fm1
+%   fm1>fraction memory
